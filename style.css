@@ -3,4 +3,8 @@ ol{
     height: 700px;
     border-radius: 20px;
     background-color: blanchedalmond;
+    margin-left: 600px;
+}
+body{
+    background-color: deepskyblue;
 }
